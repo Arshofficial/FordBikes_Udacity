@@ -1,4 +1,4 @@
-# Diamonds Data Exploration
+# FordBikes Data Exploration
 
 ## Dataset
 
